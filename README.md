@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suraj-deosarkar-a58462257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj deosarkar" height="30" width="40" /></a>
-<a href="https://suraj12398.github.io/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=kSC2OcpmW6rC&format=png" alt="Suraj Deosarkar" height="30" width="40" /></a>
+<a href="https://suraj12398.github.io/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=l6Z905T70SzX&format=png" alt="Suraj Deosarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/spidygraphy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spidygraphy" height="30" width="40" /></a>
 </p>
 
