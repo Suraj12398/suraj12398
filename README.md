@@ -18,4 +18,5 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=suraj12398&show_icons=true&locale=en&layout=compact" alt="suraj12398" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj12398&show_icons=true&locale=en" alt="suraj12398" />
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Suraj12398" alt="Suraj12398" /></a> </p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj12398&" alt="suraj12398" />
+</p>
