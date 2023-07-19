@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--G0LgQUxp--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ssqkgebqme30hf4fwmw0.png)
+![MasterHead](https://camo.githubusercontent.com/5991b72c3f03d19456d48eb29c9b3d26ecc708e00bb4e76586a22a14288f2e98/68747470733a2f2f7777772e616e64706c75732e636f6d2f68756266732f7368757474657273746f636b5f313139333339373738342e6a7067)
 <h1 align="center">Hi 👋, I'm Suraj Deosarkar</h1>
 <h3 align="center">Aspiring Java Backend Developer</h3>
 <img display="block" align="right" width= '40%' src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
